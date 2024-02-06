@@ -11,7 +11,7 @@ public class Reverse {
 		System.out.println("Enter 2nd Number");
 		int b=sc.nextInt();
 		for(int i=b; i>=a ;i--) {
-			if(i%2==0) {
+			if(i%2==0||i%2!=0) {
 			System.out.println(i);
 			}
 		}

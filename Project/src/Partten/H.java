@@ -1,4 +1,4 @@
-package Partten;
+   package Partten;
 
 public class H {
 	public static void main(String[] args) {
